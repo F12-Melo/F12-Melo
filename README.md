@@ -45,6 +45,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e atualmente estou cursando o *
 ## 📩 Como me encontrar
 
 - ✉️ Email: [gabriel.t.melo6@aluno.senai.br](mailto:gabriel.t.melo6@aluno.senai.br)
+- ✉️ GitHub: [gabriel.t.melo6@aluno.senai.br](mailto:gabriel.t.melo6@aluno.senai.br)
 
 ---
 
