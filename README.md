@@ -2,6 +2,8 @@
 
 Sou estudante de **Desenvolvimento de Sistemas** e atualmente estou cursando o **Ensino Médio**. Tenho grande interesse em aprender sobre tecnologia, programação e desenvolvimento de software. Aqui no meu GitHub você vai encontrar projetos que estou desenvolvendo para aplicar os conceitos que estou aprendendo.
 
+---
+
 ## 🚀 Tecnologias & Ferramentas
 
 ### 💻 Linguagens de Programação
@@ -15,36 +17,43 @@ Sou estudante de **Desenvolvimento de Sistemas** e atualmente estou cursando o *
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
 ## 📚 Sobre Mim
 
-- Estou sempre em busca de aprender e melhorar minhas habilidades de programação.
-- Gosto de trabalhar em projetos práticos, desafiadores e que me ajudem a crescer.
-- Estou constantemente explorando novos tópicos em **desenvolvimento web**, **desenvolvimento de software** e **inteligência artificial**.
-
-## 💻 Projetos
-
-Abaixo você encontra alguns dos projetos que desenvolvi até agora:
-
-- **Ainda estou começando mas jaja sai projeto!**
-- 
-### 📊 Status do GitHub
-<a href='https://github.com/F12-Melo/github-stats-transparent'>
-  
-![Status em Geral](https://raw.githubusercontent.com/F12-Melo/github-stats-transparent/output/generated/overview.svg)
-![Linguagens mais usadas](https://raw.githubusercontent.com/F12-Melo/github-stats-transparent/output/generated/languages.svg)
-
-
-## 📩 Como me encontrar
-
-- Email: [gabriel.t.melo6@aluno.senai.br]
-
-## 📖 Estudos
-
-- Atualmente estou estudando Modelagem de sistemas e lógica da programação no ensino Firjan Senai.
-- Curto bastante desafios no **HackerRank** para melhorar minhas habilidades de resolução de problemas.
+- 🔎 Sempre buscando aprender e melhorar minhas habilidades de programação.
+- 🛠️ Gosto de trabalhar em projetos práticos e desafiadores.
+- 🌐 Explorando tópicos como **desenvolvimento web**, **software** e **inteligência artificial**.
 
 ---
 
-Se você se interessa por desenvolvimento de software ou quer trocar ideias, não hesite em me contactar!
+## 💻 Projetos
 
-**“A jornada de mil linhas de código começa com um simples `print()`”** – Gabriel Toledo
+📌 *Ainda estou começando, mas em breve muitos projetos legais aparecerão por aqui!*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F12-Melo&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F12-Melo&layout=compact&theme=transparent&hide_border=true"/>
+</div>
+
+---
+
+## 📩 Como me encontrar
+
+- ✉️ Email: [gabriel.t.melo6@aluno.senai.br](mailto:gabriel.t.melo6@aluno.senai.br)
+
+---
+
+## 📖 Estudos
+
+- 📘 Atualmente estudando **Modelagem de Sistemas** e **Lógica de Programação** no Firjan SENAI.
+- 🧠 Gosto de praticar desafios de programação no **HackerRank** para melhorar minhas habilidades em resolução de problemas.
+
+---
+
+> **“A jornada de mil linhas de código começa com um simples `print()`”**  
+> — *Gabriel Toledo*
