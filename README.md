@@ -28,7 +28,7 @@ Abaixo você encontra alguns dos projetos que desenvolvi até agora:
 - **Ainda estou começando mas jaja sai projeto!**
 - 
 ### 📊 Status do GitHub
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/F12-Melo/github-stats-transparent'>
   
 ![Status em Geral](https://raw.githubusercontent.com/F12-Melo/github-stats-transparent/output/generated/overview.svg)
 ![Linguagens mais usadas](https://raw.githubusercontent.com/F12-Melo/github-stats-transparent/output/generated/languages.svg)
