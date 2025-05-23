@@ -32,12 +32,8 @@ Abaixo você encontra alguns dos projetos que desenvolvi até agora:
 
 ## 📖 Estudos
 
-- Atualmente estou estudando Modelagem de sistemas e lógica da programação.
+- Atualmente estou estudando Modelagem de sistemas e lógica da programação no ensino Firjan Senai.
 - Curto bastante desafios no **HackerRank** para melhorar minhas habilidades de resolução de problemas.
-
-## 🔗 Contribuições
-
-Estou aberto a colaborações e sugestões para meus projetos. Se você tem ideias para melhorar algum dos meus repositórios, fique à vontade para abrir um **issue** ou **pull request**. Fico feliz em aprender com a comunidade!
 
 ---
 
