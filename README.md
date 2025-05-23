@@ -2,17 +2,18 @@
 
 Sou estudante de **Desenvolvimento de Sistemas** e atualmente estou cursando o **Ensino Médio**. Tenho grande interesse em aprender sobre tecnologia, programação e desenvolvimento de software. Aqui no meu GitHub você vai encontrar projetos que estou desenvolvendo para aplicar os conceitos que estou aprendendo.
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias & Ferramentas
 
-- **Linguagens de Programação**: 
-  - Python
-  - CSS
-  - Html
-  
-- **Outras Ferramentas**:
-  - Git e GitHub
-  - Visual Studio Code
-  - Figma (para protótipos)
+### 💻 Linguagens de Programação
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### 🛠️ Ferramentas e Plataformas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📚 Sobre Mim
 
