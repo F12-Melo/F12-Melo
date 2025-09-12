@@ -45,7 +45,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e atualmente estou cursando o *
 
 Aqui estão alguns dos projetos que estou desenvolvendo:
 
-- 🔧 [**Azuos**](https://github.com/F12-Melo/Azuos)
+- 🔧 [**Azuos**]([[https://github.com/F12-Melo/front-end-Azuos]
 - 🌆 [**Rio_Week**](https://github.com/F12-Melo/Rio_Week)
 
 📌 *Mais projetos em breve!*
