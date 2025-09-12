@@ -6,12 +6,26 @@ Sou estudante de **Desenvolvimento de Sistemas** e atualmente estou cursando o *
 
 ## 🚀 Tecnologias & Ferramentas
 
-### 💻 Linguagens de Programação
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### ☁️ Cloud Services
+
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+
+### 📟 Linguagens Back-End
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+
+### 🖥️ Linguagens Front-End
+
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+### 💾 Banco de Dados
+
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+
 ### 🛠️ Ferramentas e Plataformas
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -21,15 +35,20 @@ Sou estudante de **Desenvolvimento de Sistemas** e atualmente estou cursando o *
 
 ## 📚 Sobre Mim
 
-- 🔎 Sempre buscando aprender e melhorar minhas habilidades de programação.
-- 🛠️ Gosto de trabalhar em projetos práticos e desafiadores.
+- 🔎 Sempre buscando aprender e melhorar minhas habilidades de programação.  
+- 🛠️ Gosto de trabalhar em projetos práticos e desafiadores.  
 - 🌐 Explorando tópicos como **desenvolvimento web**, **software** e **inteligência artificial**.
 
 ---
 
 ## 💻 Projetos
 
-📌 *Ainda estou começando, mas em breve muitos projetos legais aparecerão por aqui!*
+Aqui estão alguns dos projetos que estou desenvolvendo:
+
+- 🔧 [**Azuos**](https://github.com/F12-Melo/Azuos)
+- 🌆 [**Rio_Week**](https://github.com/F12-Melo/Rio_Week)
+
+📌 *Mais projetos em breve!*
 
 ---
 
@@ -44,14 +63,14 @@ Sou estudante de **Desenvolvimento de Sistemas** e atualmente estou cursando o *
 
 ## 📩 Como me encontrar
 
-- ✉️ Email: [gabriel.t.melo6@aluno.senai.br](mailto:gabriel.t.melo6@aluno.senai.br)
+- ✉️ Email: [gabrieltoledomelo12@gmail.com.br](mailto:gabrieltoledomelo12@gmail.com.br)  
 - 💼 LinkedIn: [Gabriel Toledo Melo](https://www.linkedin.com/in/gabriel-toledo-melo-95b915367/)
 
 ---
 
 ## 📖 Estudos
 
-- 📘 Atualmente estudando **Modelagem de Sistemas** e **Lógica de Programação** no Firjan SENAI.
+- 📘 Atualmente estudando **Modelagem de Sistemas** e **Lógica de Programação** no Firjan SENAI.  
 - 🧠 Gosto de praticar desafios de programação no **HackerRank** para melhorar minhas habilidades em resolução de problemas.
 
 ---
