@@ -8,7 +8,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e atualmente estou cursando o *
 
 ### ☁️ Cloud Services
 
-![AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-FF9900?logo=amazonaws&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 📟 Linguagens Back-End
 
