@@ -47,6 +47,8 @@ Aqui estão alguns dos projetos que estou desenvolvendo:
 
 - 🔧 [**Azuos Plataform - HackÉtica 25**](https://github.com/F12-Melo/front-end-Azuos)
 - 🌆 [**Robo Bibliotecario - RIW25**](https://github.com/F12-Melo/Rio-Week)
+- 🧠 [**Azuos - Leader Trainer**](https://github.com/F12-Melo/azuos-front-v2)
+- ⚙️ [**Azuos - Workflow Manager**](https://github.com/F12-Melo/azuos-workflow)
 
 📌 *Mais projetos em breve!*
 
